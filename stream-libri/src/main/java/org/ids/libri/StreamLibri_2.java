@@ -12,7 +12,7 @@ import org.ids.libri.Libro.Categoria;
 
 
 
-public class StreamLibri {
+public class StreamLibri_2 {
 
     // mi appoggio ad un factory method che genera a rotazione
     // la stessa lista di libri
